@@ -19,7 +19,7 @@ body{
     background-color:white;
 }
 .op1{
-    /* font: size 1.5em; */
+    font-size: 1.5em;
 }
 .op2{
     border: none;
@@ -33,14 +33,18 @@ body{
 .span1{
     width: 30%;
     margin: 2px 0;
-    height: 24%;
+    height: 17%;
     border: none;
 }
 .span2{
     width: 30%;
-    height: 23.5%;
+    height: 23%;
     border-radius: 50%;
     background-color:green;
     color: bisque;
 
+}
+.top,.bottom{
+    margin: 0;
+    padding: 0;
 }
